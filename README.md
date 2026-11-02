@@ -61,13 +61,23 @@ This project builds and compares ML models that predict demand, and identifies w
 
 ### Visualizations
 
-![Actual vs Predicted](images/model_comparison.png)
 
-![Feature Importance](images/top_products.png)
 
-![Feature Importance](images/monthly_demand.png)
+![Model Comparison](images/model_comparison.png)
 
-![Feature Importance](images/year-wise_demand.png)
+
+
+![Top Products](images/top_products.png)
+
+
+
+![Monthly Demand](images/monthly_demand.png)
+
+
+
+![Yearly Demand](images/year-wise_demand.png)
+
+
 
 ## How to Run
 
@@ -102,7 +112,8 @@ jupyter notebook notebooks/demand_forecasting.ipynb
 
 ## Author
 
-**[RENU MAHATI]**
+**[RENU MAHATo]**
+
 [LinkedIn](www.linkedin.com/in/renu-kumari-84414a387) · [GitHub](https://github.com/RenuMahato)
 
 ---
