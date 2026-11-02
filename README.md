@@ -114,6 +114,6 @@ jupyter notebook notebooks/demand_forecasting.ipynb
 
 **[RENU MAHATo]**
 
-[LinkedIn](www.linkedin.com/in/renu-kumari-84414a387) · [GitHub](https://github.com/RenuMahato)
+[LinkedIn](www.linkedin.com/in/renu-kumari-84414a387) · [Github](https://github.com/RenuMahato)
 
 ---
